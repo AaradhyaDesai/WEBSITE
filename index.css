@@ -1,0 +1,55 @@
+
+.entry_logo_img{
+    background-color: #000036;
+    padding-left: 35%;
+    padding-right: 70%;
+    padding-top: 7em;
+    padding-bottom: 6em;
+    
+}
+
+.navigation_bar{
+    text-align: center;
+    background-color: #5F2FBA;
+    position: fixed;
+    height: 111px;
+    width: 52px;
+    right: 14;
+    bottom: 25;
+    border-radius: 10px;
+}
+.welcome_text{   
+    
+    padding-top: 40px;
+    margin-left: 1%;
+    border-left: 10;
+    padding-left: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    height: 50px;
+    text-emphasis-color: #5F2FBA;
+}
+.content{
+    margin-left: 50px;
+    
+}
+.content_texts{
+
+ 
+ 
+}
+.h2{
+    color: #5F2FBA;
+}
+.exit_statement{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.Project{
+    text-align: right;
+    padding-left: 50%;
+}
+.current_project{}
+.Skills{
+
+}
